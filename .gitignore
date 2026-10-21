@@ -118,3 +118,14 @@ tools/linux-capture/*.db
 tools/linux-capture/*.db-wal
 tools/linux-capture/*.db-shm
 tools/linux-capture/captures/
+
+# WHOOP research - never commit
+*.apk
+*.xapk
+*.apks
+*.dex
+jadx-out/
+decompiled/
+re/
+*.whoop-capture
+research/data/raw/
